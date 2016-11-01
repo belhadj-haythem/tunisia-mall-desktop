@@ -1,0 +1,3 @@
+grant Principal tunisia.mall.security.TunisiaMallPrincipal "admin" {
+	permission tunisia.mall.security.myPermission "test";
+};

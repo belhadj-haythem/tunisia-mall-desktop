@@ -1,0 +1,10 @@
+tunisia\mall\businessDelegate\CategorieServiceDelegate.class
+tunisia\mall\serviceLocator\ServiceLocator.class
+tunisia\mall\businessDelegate\ItemServiceDelegate.class
+tunisia\mall\businessDelegate\ScategorieServiceDelegate.class
+tunisia\mall\businessDelegate\ShopServiceDelegate.class
+tunisia\mall\businessDelegate\EventServiceDelegate.class
+tunisia\mall\businessDelegate\UserServiceDelegate.class
+tunisia\mall\businessDelegate\VendorServiceDelegate.class
+tunisia\mall\businessDelegate\NewsServiceDelegate.class
+tunisia\mall\businessDelegate\CartServiceDelegate.class
